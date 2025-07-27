@@ -41,5 +41,6 @@ The models with least fatalities are 172,150m and 180
 # PDF File
 <img width="999" height="799" alt="Project Presentation" src="https://github.com/user-attachments/assets/d1ce7bac-7a86-4f9f-ba08-6e4200e06342" />
 
+<img width="999" height="799" alt="Project Phase 1 Presentation (1)" src="https://github.com/user-attachments/assets/802b77cc-4177-469f-be64-5108f8108137" />
 
 
