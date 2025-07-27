@@ -1,13 +1,13 @@
-#Overview
+# Overview
 Data-Driven Aircraft Risk Analysis for Safe Fleet Acquisition
 
-#Business Understanding
+# Business Understanding
 To identify which aircraft make and model have the lowest historical accident rates, fewer fatal incidents, and lower safety risks
 
-#Stakeholder and key business questions
+# Stakeholder and key business questions
 which aircraft models and routes have high safety and security
 
-#Data Understanding and Analysis
+# Data Understanding and Analysis
 23,000+ incident reports (1962-2023) from Aviation _Data.csv file 
 Data Cleanup:
 Excluded models with incomplete records and filled the ones that had less missing values 
