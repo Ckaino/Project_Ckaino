@@ -33,11 +33,13 @@ Data was from the National Transportation Safety Board that includes aviation ac
 Average Risk Score Trend Over Time
 Aircraft Model by Injuries
 Key Finding In Make and Model Overview
+# Recommendations
+I recommend the business to invest in Cessna180 and 152 models
+The models with least fatalities are 172,150m and 180
 
 # Conclusion
-The business can invest in Cessna180 and 152 models
-Risk scores decreased over time from 1996 to 2022
-The models with least fatalities are 172,150m and 180
+The adoption of a data-driven approach to aircraft risk analysis provides a robust foundation for making informed, objective, and safety-focused decisions in fleet acquisition
+
 # PDF File
 <img width="999" height="799" alt="Project Presentation" src="https://github.com/user-attachments/assets/d1ce7bac-7a86-4f9f-ba08-6e4200e06342" />
 
